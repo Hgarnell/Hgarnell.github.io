@@ -43,7 +43,8 @@ highlighter: rouge #selecting the highlighter, default is rouge
 header_pages:
   - index.md
   - about.md
-  - a-third-page.md
+  - saul.md
+  - bernie.md
 
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
