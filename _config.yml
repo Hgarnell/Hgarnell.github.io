@@ -42,7 +42,7 @@ highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
   - index.md
-  - about.md
+#  - about.md
   - saul.md
   - bernie.md
 
