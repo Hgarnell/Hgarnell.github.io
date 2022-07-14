@@ -4,8 +4,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-permalink: /saul
-permalink_name: /saul
+permalink: /Saul
 title: Saul Garnell
 
 ##detail_image: assets/theme_logo.svg

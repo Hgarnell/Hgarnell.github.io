@@ -4,8 +4,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-permalink: /bernie
-permalink_name: /bernie
+permalink: /bernie/
 title: Bernie (Hannah) Garnell
 
 ##detail_image: assets/theme_logo.svg
