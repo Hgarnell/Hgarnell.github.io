@@ -12,7 +12,6 @@ title: The Rabbithole
 ---
 
 
-
 **Welcome!** This website is just a little CV/blog for [/saul](Saul) and [/bernie] (Bernie) where we post ramblings from both our personal and work lives. 
 
-The former wordpress site for Whiterabbit.com can be found [https://whiterabbitfamily.wordpress.com/](here)
+The former wordpress site for Whiterabbit.com can be found [here](https://whiterabbitfamily.wordpress.com/)

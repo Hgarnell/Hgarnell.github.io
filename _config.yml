@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   A paragraph describing your webpage.
 baseurl: "/" # the subpath of your site
 url: "hgarnell.github.io" # the base hostname & protocol for your site
-twitter_username: andachi
-github_username:  tareqdandachi
+twitter_username: sgarnell
+github_username:  hgarnell
 
 # Required plugins for the theme to work properly
 plugins:
