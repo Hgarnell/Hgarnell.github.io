@@ -3,14 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-permalink: /bernie/
+permalink: /Bernie
 title: Bernie (Hannah) Garnell
 
 ##detail_image: assets/theme_logo.svg
 
 ---
 
-
-
-Saul Garnell WIP
+Bernie Garnell WIP
 

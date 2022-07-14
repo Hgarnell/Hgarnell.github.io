@@ -43,10 +43,10 @@ sass:
 highlighter: rouge #selecting the highlighter, default is rouge
 
 header_pages:
-  - index.md
+  - index.markdown
 #  - about.md
-  - saul.md
-  - bernie.md
+  - saul.markdown
+  - bernie.markdown
 
 # controls how big the shell and font looks
 font-size: small # options: [small] or [large]
