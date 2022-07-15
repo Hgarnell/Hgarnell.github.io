@@ -4,6 +4,7 @@
 
 layout: page
 permalink: /Bernie
+permalink_name: /Bernie
 title: Bernie (Hannah) Garnell
 
 ##detail_image: assets/theme_logo.svg

@@ -4,6 +4,7 @@
 
 layout: page
 permalink: /Saul
+permalink_name: /Saul
 title: Saul Garnell
 
 ##detail_image: assets/theme_logo.svg
