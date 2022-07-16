@@ -1,3 +1,4 @@
+
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -16,12 +17,12 @@ I am currently a university student majoring in Networks and Cybersecurity. Outs
 
 This space to be a place to blog and showcase myself and my hobbies.
 
-#Important stuff?#
+# Important stuff?
 -[My CV WIP]()
 -[Technology Blog]()
 -[Recipe Blog]()
 
-#My Socials and other links#
+# My Socials and other links
 -[Linkedin](https://nz.linkedin.com/in/bernie-garnell-1b4847207)
 -[Instagram](https://www.instagram.com/kuma.raa/)
 -[Github](https://github.com/Hgarnell/)
