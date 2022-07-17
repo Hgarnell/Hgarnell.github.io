@@ -82,5 +82,7 @@ collections:
   sauls_phd_log:
     output: true
     permalink: /blogs/sauls-phd-log/:path/
+  blogs:
+    permalink: /blogs/
 
 collections_dir: my_collections
