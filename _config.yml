@@ -70,3 +70,17 @@ font-size: small # options: [small] or [large]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+collections:
+  recipes:
+    output: true
+    permalink: /blogs/recipes/:path/
+  bernies_tech_stuff:
+    output: true
+    permalink: /blogs/bernies-tech-stuff/:path/
+  sauls_phd_log:
+    output: true
+    permalink: /blogs/sauls-phd-log/:path/
+
+collections_dir: my_collections
