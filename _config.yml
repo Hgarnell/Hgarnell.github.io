@@ -85,4 +85,4 @@ collections:
   blogs:
     permalink: /blogs/
 
-collections_dir: my_collections
+collections_dir: blogs/
