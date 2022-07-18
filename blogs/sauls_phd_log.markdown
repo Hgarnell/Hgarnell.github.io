@@ -11,8 +11,8 @@ His Thesis will attempt to find key patterns and non-biological analogues that c
 
 {% for sauls_phd_log in site.sauls_phd_log %}
 
-<a href="{{ sauls_phd_log.url | prepend: site.baseurl }}">
-  <p> - {{sauls_phd_log.date | date: "%Y-%m-&d"}}  {{ sauls_phd_log.title }}</p>
+<a href = {{sauls_phd_log.url | prepend: site.baseur}} >
+  <p> - {{sauls_phd_log.date | date: "%Y-%m-%d"}}  {{ sauls_phd_log.title }}</p>
 </a>
 
 {% endfor %}
