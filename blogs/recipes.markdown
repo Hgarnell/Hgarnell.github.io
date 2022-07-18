@@ -3,7 +3,7 @@ layout: page
 permalink: blogs/recipes
 title: Recipe index
 ---
-#Recipes
+# Recipes
 
 Here are a few of my recipes that I make most often! Mostly Japanese homecooking that frequents my stomach often
 
