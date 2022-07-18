@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "5dccdb0e2d72fc81",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd87e3cf67af7379",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_recipes/jagajaga.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ad192d263c8f6c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1165f71179a9d3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8264c337e531c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f95b2e28f9182e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e2da63d128d97f3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81c758ca759f56b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "da69dc0f1812daae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c769933ada387e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_recipes/jagajaga.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e918917deea800a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_recipes/jagajaga.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "099d7083f04c03da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "205fed3acc968ab8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_recipes/jagajaga.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd87e3cf67af7379",
+  "lastOpenFiles": [
+    "_drafts/draft_for_recipes.md",
+    "_drafts/draft_for_sauls_log.md",
+    "_drafts/Cashew Butter Cookies.md",
+    "_recipes/jagajaga.md",
+    "_recipes/kabocha-recipe.md",
+    "_drafts/draft_for_bernies_tech.md"
+  ]
+}

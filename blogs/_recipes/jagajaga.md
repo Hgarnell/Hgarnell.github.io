@@ -24,4 +24,4 @@ My families take on the japanese dish "Niku-Jaga" 肉じゃが as we dont use me
 5. Stir and close the lid, cook for another 10 minutes or until the potatoes are cooked through.
 
 ## Notes
-* *mentsuyu is a noodle dipping sauce which is basically a infused soysauce with dashi (broth), mirin and sake. You can dillute it with water to make a quick soup, or even use it as a seasoning as I do in this recipe. you can easily buy it at your local asian supermarket, [amazon](https://amazon.com) or even make it yourself!*
+*mentsuyu is a noodle dipping sauce which is basically a infused soysauce with dashi (broth), mirin and sake. You can dillute it with water to make a quick soup, or even use it as a seasoning as I do in this recipe. you can easily buy it at your local asian supermarket, [amazon](https://amazon.com) or even make it yourself!
