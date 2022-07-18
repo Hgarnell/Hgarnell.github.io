@@ -18,8 +18,8 @@ This space to be a place to blog and showcase myself and my hobbies.
 
 # Important stuff?
 -[My CV WIP]()
--[Technology Blog]()
--[Recipe Blog]()
+-[Technology Blog](/blogs/bernies_tech_stuff)
+-[Recipe Blog](blogs/recipes)
 
 # My Socials and other links
 -[Linkedin](https://nz.linkedin.com/in/bernie-garnell-1b4847207)

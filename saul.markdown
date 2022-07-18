@@ -13,6 +13,9 @@ title: Saul Garnell
 
 When Saul isnt working, practicing the Bass guitar, writing indie sci-fi, working on his phd, reading comics, collecting JLU action figures, painting, woodworking, or welding, you can find him on the couch watching TV with his foster dog of the month.
 
+Saul's PHD focuses computational biology and artificial intelligence through uising a model of a fruit fly!
+You can keep up with his PHD through his [log!](/blogs/sauls_phd_log)
+
 You can find Saul and catch up with is various hobbies in the links below!
 
 - [Linkedin](https://www.linkedin.com/in/saul-garnell-aaa0932)
