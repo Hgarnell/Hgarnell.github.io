@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: blogs/sauls_phd_log
 title: Recipe index
 ---
 #Saul's PHD Log

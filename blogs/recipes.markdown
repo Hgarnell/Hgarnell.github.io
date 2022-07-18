@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: blogs/recipes
 title: Recipe index
 ---
 #Recipes
