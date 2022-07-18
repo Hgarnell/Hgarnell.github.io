@@ -12,4 +12,4 @@ Here are a few of my recipes that I make most often! Mostly Japanese homecooking
   - <p>{"{{ recipes.date | date: "%Y-%m-&d" }}"  |  recipes.title }</p>
 </a>
 
-{% endfor}
+{% endfor %}

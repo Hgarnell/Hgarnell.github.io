@@ -12,4 +12,4 @@ Here are a few of mapanese homecooking that frequents my stomach often
   - <p>{"{{ bernies_tech_stuff.date | date: "%Y-%m-&d" }}" |  bernies_tech_stuff.title}</p>
 </a>
 
-{% endfor}
+{% endfor %}

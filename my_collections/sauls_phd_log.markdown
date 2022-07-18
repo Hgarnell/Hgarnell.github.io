@@ -14,4 +14,4 @@ His Thesis will attempt to find key patterns and non-biological analogues that c
   - <p>{"{{  sauls_phd_log.date | date: "%Y-%m-&d" }}" | sauls_phd_log.title}}</p>
 </a>
 
-{% endfor}
+{% endfor %}
