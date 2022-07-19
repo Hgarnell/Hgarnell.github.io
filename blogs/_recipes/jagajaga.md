@@ -14,7 +14,7 @@ My families take on the japanese dish "Niku-Jaga" 肉じゃが as we dont use me
 	- 4 onions
 	- 5 tbsp soy sauce
 	- 4 tbsp sweetner of choice
-	- 1 tbsp *
+	- 1 tbsp tsuyu *
 
 ## Prep
 1. cut the potato, carrots, and onion into bite sized pieces.

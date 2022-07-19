@@ -8,17 +8,18 @@ tags: Breakfast Cinnamon Tangzhong rolls
 *Makes 12 extremely large cinnamon rolls*
 Self proclaimed by my dad as the "best cinnamon rolls" and they are vegan! *bonus points right?* 
 
-I adapted the dough from [Tasty's Cinnamon  Rolls] ()and then followed some of the guidence from [Pancake Princess's] cinnamon roll bake off to create the filling and also just winged it. 
+I adapted the dough from [Tasty's Cinnamon  Rolls](https://tasty.co/recipe/tasty-101-cinnamon-rolls)and then followed some of the guidence from [Pancake Princess's](https://www.thepancakeprincess.com/2018/12/11/best-cinnamon-roll-bake-off/) cinnamon roll bake off to create the filling and also just winged it. 
 
 ## Ingredients
-## Dough
-	#### Tangzhong
-		-	65g  All purpose flour
-		- 240 mL milk of choice (Soy works best)
+#### Tangzhong
+	-	65g  All purpose flour
+	- 240 mL milk of choice (Soy works best)
+#### Dough
+	- Tangzhong^
 	- 80g sugar
 	- 110g unsalted butter of choice, melted (I use miyokos or violife)
 	- 565g All purpose flour
-	- 360 mL milk
+	- 300 mL milk
 	- 1 tbsp potato starch
 	- 2 1/4 tsp active dry yeast
 	- 2 tsp salt

@@ -21,7 +21,8 @@
 title: Welcome to the rabbithole
 email: bernie@whiterabbit.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A paragraph describing your webpage.
+  Welcome to our Rabbithole! 
+  Where sometimes we've believed as many as six impossible things before breakfast.
 baseurl: "/" # the subpath of your site
 url: "hgarnell.github.io" # the base hostname & protocol for your site
 twitter_username: sgarnell
