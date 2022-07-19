@@ -14,6 +14,7 @@ I adapted the dough from [Tasty's Cinnamon  Rolls](https://tasty.co/recipe/tasty
 #### Tangzhong
 	-	65g  All purpose flour
 	- 240 mL milk of choice (Soy works best)
+
 #### Dough
 	- Tangzhong^
 	- 80g sugar
@@ -23,17 +24,20 @@ I adapted the dough from [Tasty's Cinnamon  Rolls](https://tasty.co/recipe/tasty
 	- 1 tbsp potato starch
 	- 2 1/4 tsp active dry yeast
 	- 2 tsp salt
-## Filling
+
+#### Filling
 	- 1/2 cup packed brown sugar
 	- 1 1/2 tbsp cinnamon
 	-  1 tsp nutmeg
 	-  1/2 tso salt
 	- 2 tbsp softened butter
-## Frosting
+
+#### Frosting
 	 - 115g cream cheese (I use miyokos)
 	 - 3 tbsp butter
 	 - 1 tbsp rum or sweet whiskey
 	 - 1/2 cup powdered sugar
+
 #### "Egg" wash
 	- 1 1/2 tbsp maple syrup or honey (any sugar is fine, you just need it to dissolve)
 	- 2 tsp butter or fat

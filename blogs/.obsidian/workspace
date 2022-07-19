@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Cashew Butter Cookies.md",
+            "file": "_recipes/cinnamon_rolls.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "81c758ca759f56b4",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Cashew Butter Cookies.md",
+                "file": "_recipes/cinnamon_rolls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Cashew Butter Cookies.md",
+                "file": "_recipes/cinnamon_rolls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Cashew Butter Cookies.md"
+                "file": "_recipes/cinnamon_rolls.md"
               }
             }
           }
@@ -129,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e8264c337e531c5",
+  "active": "dd87e3cf67af7379",
   "lastOpenFiles": [
+    "_drafts/Cashew Butter Cookies.md",
     "_drafts/draft_for_bernies_tech.md",
     "_drafts/powerview.md",
     "_drafts/tmux.md",
@@ -139,7 +139,6 @@
     "_drafts/htb pokemon.md",
     "Users/bgarnell/Library/Application Support/marktext/images/2022-01-25-10-47-52-image.png.md",
     "_drafts/winpeas.md",
-    "_bernies_tech_stuff/blue-thm.md",
-    "_drafts/feroxbustermd.md"
+    "_bernies_tech_stuff/blue-thm.md"
   ]
 }
