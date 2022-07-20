@@ -1,12 +1,17 @@
-**Intro to Ffuf and how to use it**
+---
+layout: post
+title: TryHackMe intro to FFuf
+date: 19/01/2022
+tags: TryHackMe FFUF
+---
+**Intro to Ffuf and how to use it, Try hack me tutorial**
 
 - '*ffuf*' stands for 'fuzz faster you fool!'
   
   - Its a web attack tool written in go and is like the burpsuite of the cli
   
   - to use it you need the input file you're sending to the webapp and the location to be injected which is indicated with *FUZZ*
-  
-  - 
+
 
 ---
 

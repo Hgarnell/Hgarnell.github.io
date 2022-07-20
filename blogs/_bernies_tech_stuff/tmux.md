@@ -1,4 +1,10 @@
-**tmux**
+---
+layout: post
+title: TMUXnotes
+date: 19/12/2022
+tags: TMUX
+---
+**tmux and shortcuts for me to remember**
 
 - tmux is a terminal multiplexer that allows you to open multiple windows in cli
 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dd87e3cf67af7379",
+        "id": "9c515cff2a56bc1a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_recipes/cinnamon_rolls.md",
+            "file": "_bernies_tech_stuff/keyboards.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_recipes/cinnamon_rolls.md",
+                "file": "_bernies_tech_stuff/keyboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_recipes/cinnamon_rolls.md",
+                "file": "_bernies_tech_stuff/keyboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_recipes/cinnamon_rolls.md"
+                "file": "_bernies_tech_stuff/keyboards.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd87e3cf67af7379",
+  "active": "2e8264c337e531c5",
   "lastOpenFiles": [
-    "_drafts/Cashew Butter Cookies.md",
     "_drafts/draft_for_bernies_tech.md",
-    "_drafts/powerview.md",
-    "_drafts/tmux.md",
-    "Users/bgarnell/Library/Application Support/marktext/images/2021-12-08-15-09-07-image.png.md",
-    "_drafts/FUFF-thm.md",
+    "_bernies_tech_stuff/keyboards.md",
+    "_bernies_tech_stuff/FUFF-thm.md",
+    "_drafts/Cashew Butter Cookies.md",
+    "_drafts/feroxbustermd.md",
     "_drafts/htb pokemon.md",
-    "Users/bgarnell/Library/Application Support/marktext/images/2022-01-25-10-47-52-image.png.md",
-    "_drafts/winpeas.md",
-    "_bernies_tech_stuff/blue-thm.md"
+    "_drafts/draft_for_sauls_log.md",
+    "_bernies_tech_stuff/tmux.md",
+    "_drafts/powerview.md",
+    "_drafts/winpeas.md"
   ]
 }
