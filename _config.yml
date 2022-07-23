@@ -87,6 +87,6 @@ collections:
     permalink: /blogs/
   posts:
     output: true
-    permalink: /:path/
+    permalink: /blogs/:path/
 
 collections_dir: blogs/
