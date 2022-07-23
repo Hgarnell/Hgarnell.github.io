@@ -85,8 +85,8 @@ collections:
     permalink: /blogs/sauls-phd-log/:path/
   blogs:
     permalink: /blogs/
-  posts:
+  other:
     output: true
-    permalink: /blogs/posts/:path/
+    permalink: /blogs/other/:path/
 
 collections_dir: blogs/

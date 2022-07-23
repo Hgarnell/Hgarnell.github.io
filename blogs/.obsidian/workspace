@@ -7,12 +7,8 @@
         "id": "b32296bd11264c68",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2022-07-23-cvB.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-07-23-cvB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-07-23-cvB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2022-07-23-cvB.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,8 +122,8 @@
   },
   "active": "b32296bd11264c68",
   "lastOpenFiles": [
-    "_drafts/draft_for_bernies_tech.md",
     "_posts/2022-07-23-cvB.md",
+    "_drafts/draft_for_bernies_tech.md",
     "_drafts/tmux.md",
     "_bernies_tech_stuff/keyboards.md",
     "_bernies_tech_stuff/FUFF-thm.md",
