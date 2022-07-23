@@ -1,0 +1,82 @@
+---
+layout: post
+title: Bernie Garnell's CV
+date: 23/07/2022
+tags: 
+---
+
+# Bernie Garnell
+
+Networks and Cyber Security University Student,Hobbiest Baker.
+
+<a href="mailto: bernie@whiterabbit.com">bernie@whiterabbit.com</a>
+
+## Currently
+
+Motivated Computer Science student, motivated upskill and gain real world, hands-on experience in Cybersecurity. Through these experience I hope to gain knowledge and confidence in working in a security focused environment. I am focused on learning how to repair, manage and identify vulnerabilities in order to help protect systems and people from malicious attacks.
+
+## Education
+
+`2021 - now`
+
+__Auckland University of Technolodgy__
+- AUT Cyber Security Club President
+- Networks and Cyber Security Major
+- 8.75 GPA
+
+`2017 - 2020`
+
+__Epsom Girls Grammar School__
+*Secondary School*
+- Language Synhedrion Leader
+- IT Crowd Member
+
+## Work Experience
+`March
+2022 - now `
+Teacher's Assistant, *AUT*, Auckland, NZ
+ - Teaching Assistant for COMP500/ENSE501 Programming Concepts and Techniques
+
+`November 2021 - February 2022`
+Security Intern, *Aura*, Auckland, NZ
+ - Interned during the summer at Aura Information Security Learning about Pentesting and Security Advisory work
+ 
+`October 2019 - July 2022`
+Web Developer, *JKET*, Auckland, NZ
+
+
+## Skills
+
+__HTML/CSS__
+
+Through creating the official webpage for the Japan Kauri Education Trust (JKET), I have gained sufficient skills in web development. I also understand User Heuristics throughs studying Jakob Nielsens' 10 general principles in high school. This helped me design JKET's website as I aimed to create a functional and easy to use website that was available in both English and Japanese. Furthermore, I have a basic understanding of Javascript through interactive elements of JKETs website, and I am interested in gaining knowledge in this area.
+
+__C__
+
+Through my Programming and Operating System papers at University, I am efficient in using C to solve programming problems. I can debug and analyse code to produce bug and error-free code. My role as a TA involves explaining coding problems in C and helping them understand the basics of the language. This has further improved my knowledge of C and enabled me to view issues from different perspectives. When helping students, I need to dissect the code they have produced and help them debug what they have rather than show them my implementation.
+
+__Java__
+
+Over the past year I have expanded my knowledge of Object-Oriented Programming(OOP) through learning Java. In my courses I have learned about different data structures and algorithms and how to implement and use them effectively in programming problems. I have also been exposed to the SOLID framework and have a basic understanding on how to create flexible, maintainable and portable programs.
+
+__Penetration Testing__
+
+I gained an interest in becoming a pen-tester during my second to last year of Highschool. While I tried to learn pen-testing skills on my own through Try-Hack-Me, Overthewire and youtube tutorials, it wasn't until my internship at Aura that I was able to gain a basic understanding. Through watching over the shoulders of my mentors, I learned how to use tools such as NMAP and Burpsuite effectively. I also learned how phishing engagements work, the fundamentals of Windows Active Directory and how to exploit it using Bloodhound. I continue to try and expand on my skillset through completing HacktheBox and PortSwigger Challenges.
+
+__Other Skills__
+
+- Confident and proficient user in MS Office Suite and Google Suite Applications (Word, Excel, PowerPoint, Google Docs, Google Slides, etc.) - Understanding of Networks through my course at Techtorium and self-study through youtube and tryhackme - Basic knowledge of MySQL and other databases through University classes, Portswigger SQL Injection courses and high school.
+
+__Security Frameworks__
+
+My internship at Aura exposed me to different cybersecurity frameworks such as NIST, ISO and OCTAVE. I was fascinated by understanding how these frameworks laid out how companies can improve and build up their cybersecurity postures. Furthermore, through sitting through client meetings, I was able to see real-life implementations of organisations and how they identified their shortcomings and understand how they could improve them. I was also given the opportunity to provide a research report on different EDR/ XDR software and threat intelligence sources.
+
+__Interests__
+
+I am passionate about working out and going to the gym 5 to 6 times a week. In addition, I enjoy baking and cooking and even sold vegan biscotti and other baked goods while in high school to a cafe in Albany. I also enjoy drawing and painting in my free time and occasionally dabble in improv jazz piano.
+
+
+
+### References
+
+Available on request. Contact <a href = "mailto:bernie@whiterrabbit.com" > me </a>.

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9c515cff2a56bc1a",
+        "id": "b32296bd11264c68",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_bernies_tech_stuff/keyboards.md",
+            "file": "_posts/CV.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_bernies_tech_stuff/keyboards.md",
+                "file": "_posts/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_bernies_tech_stuff/keyboards.md",
+                "file": "_posts/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_bernies_tech_stuff/keyboards.md"
+                "file": "_posts/CV.md"
               }
             }
           }
@@ -131,14 +131,14 @@
   "active": "2e8264c337e531c5",
   "lastOpenFiles": [
     "_drafts/draft_for_bernies_tech.md",
+    "_posts/CV.md",
+    "_drafts/tmux.md",
     "_bernies_tech_stuff/keyboards.md",
     "_bernies_tech_stuff/FUFF-thm.md",
     "_drafts/Cashew Butter Cookies.md",
     "_drafts/feroxbustermd.md",
     "_drafts/htb pokemon.md",
     "_drafts/draft_for_sauls_log.md",
-    "_bernies_tech_stuff/tmux.md",
-    "_drafts/powerview.md",
-    "_drafts/winpeas.md"
+    "_drafts/powerview.md"
   ]
 }
