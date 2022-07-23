@@ -17,7 +17,7 @@ I am currently a university student majoring in Networks and Cybersecurity. Outs
 This space to be a place to blog and showcase myself and my hobbies.
 
 # Important stuff?
--[My CV WIP]()
+-[My CV WIP](/blogs/posts/cv)
 -[Technology Blog](/blogs/bernies_tech_stuff)
 -[Recipe Blog](blogs/recipes)
 
