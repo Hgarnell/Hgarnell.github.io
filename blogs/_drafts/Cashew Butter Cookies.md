@@ -22,11 +22,13 @@ I was shocked by the results of these cookies, and adding the nutmeg really adde
 	- 1 tbsp flaxseed
 	- 1 tbsp potato startch
 	- 6 tbsp boiling water
+	- 1 tsp rum 
 	
 
 
 ## Prep
-1. cut the potato, carrots, and onion into bite sized pieces.
-2. 
+1.  Cream together the cashew butter and coconut nectar.
+2.  Make the "egg" by combining the flaxseed with the 6tbsp boiling water and let sit for a bit.
+3. combine the oat flour 
 ## Notes
 - You can use any nut butter in this recipe! I like subsituting with sun-butter to make it nut free and tahini!

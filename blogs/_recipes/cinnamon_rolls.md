@@ -21,7 +21,7 @@ I adapted the dough from [Tasty's Cinnamon  Rolls](https://tasty.co/recipe/tasty
 	- 110g unsalted butter of choice, melted (I use miyokos or violife)
 	- 565g All purpose flour
 	- 300 mL milk
-	- 1 tbsp potato starch
+	- 2 tbsp potato starch
 	- 2 1/4 tsp active dry yeast
 	- 2 tsp salt
 
