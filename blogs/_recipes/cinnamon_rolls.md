@@ -12,24 +12,24 @@ I adapted the dough from [Tasty's Cinnamon  Rolls](https://tasty.co/recipe/tasty
 
 ## Ingredients
 #### Tangzhong
-	-	65g  All purpose flour
-	- 240 mL milk of choice (Soy works best)
+	-	25g  All purpose flour
+	- 80 mL milk of choice (Soy works best)
 
 #### Dough
 	- Tangzhong^
 	- 80g sugar
-	- 110g unsalted butter of choice, melted (I use miyokos or violife)
-	- 565g All purpose flour
-	- 300 mL milk
+	- 80g unsalted butter of choice, melted (I use miyokos or violife)
+	- 650g Bread flour
+	- 400 mL milk
 	- 2 tbsp potato starch
-	- 2 1/4 tsp active dry yeast
+	- 2 tsp active dry yeast
 	- 2 tsp salt
 
 #### Filling
 	- 1/2 cup packed brown sugar
 	- 1 1/2 tbsp cinnamon
 	-  1 tsp nutmeg
-	-  1/2 tso salt
+	-  1/2 tsp salt
 	- 2 tbsp softened butter
 
 #### Frosting
@@ -89,3 +89,4 @@ I adapted the dough from [Tasty's Cinnamon  Rolls](https://tasty.co/recipe/tasty
 
 ## Notes
 - Windowpane stage is when you can pull on the dough and it doesnt rip. You should be able to stretch it apart so that the dough forms an almost translucent pane.
+- All purpose flour works instead of Bread aswell. You might need more or less flour.

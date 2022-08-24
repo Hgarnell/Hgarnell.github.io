@@ -16,6 +16,7 @@ A: File Transfer Protocol.
 Doing a typical nmap scan  wont result in seeing what port is open. Note the box note mentions *redis* which a quick google search will show that redis server runs on tcp port 6379.
 
 We can also try using nmaps --top-ports flag to see if we can pick it up that way.
+
 ```shell
 PORT     STATE SERVICE VERSION
 6379/tcp open  redis   Redis key-value store 5.0.7
@@ -44,8 +45,10 @@ Q:  *Once connected to a Redis server, which command is used to obtain the infor
 A: info
 - note: ip address is different because i needed to reset the machine
 - I found out whqat command to use through looking and the redis manual.
-- the HELP command provides a list of commands that i could use to view different commands avaialable to me. h]
+- the HELP command provides a list of commands that i could use to view different commands avaialable to me.
+
  ``help @server``
+
 ```SHELL
 redis-cli -h 10.129.60.214
 10.129.60.214:6379> INFO

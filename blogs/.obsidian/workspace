@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_drafts/Cashew Butter Cookies.md",
+            "file": "_bernies_tech_stuff/Sequel-HTB.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Cashew Butter Cookies.md",
+                "file": "_bernies_tech_stuff/Sequel-HTB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Cashew Butter Cookies.md",
+                "file": "_bernies_tech_stuff/Sequel-HTB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Cashew Butter Cookies.md"
+                "file": "_bernies_tech_stuff/Sequel-HTB.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b32296bd11264c68",
   "lastOpenFiles": [
-    "_bernies_tech_stuff/Preignition-HTB.md",
+    "_recipes/Cashew_Butter_cookies.md",
+    "_recipes/Peanut_Butter_Bar.md",
+    "_recipes/cinnamon_rolls.md",
+    "_recipes/kabocha_recipe.md",
     "_drafts/draft_for_recipes.md",
-    "_drafts/draft_for_sauls_log.md",
-    "_drafts/Crocodile-HTB.md",
+    "_drafts/draft_for_bernies_tech.md",
     "_bernies_tech_stuff/Redeemer-HTB.md",
-    "_bernies_tech_stuff/Explosion-HTB.md",
-    "_bernies_tech_stuff/Dancing-HTB.md",
-    "_bernies_tech_stuff/Sequel-HTB.md",
-    "_drafts/tmux.md",
-    "_drafts/Cashew Butter Cookies.md"
+    "_bernies_tech_stuff/Preignition-HTB.md",
+    "_drafts/draft_for_sauls_log.md",
+    "_drafts/Crocodile-HTB.md"
   ]
 }
