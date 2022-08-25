@@ -7,7 +7,7 @@ tags: Dessert Muffins
 # Lemon Poppy Seed Muffins
 *serves 7*
 
- Using [Pancake Princess's](https://www.thepancakeprincess.com/2020/05/19/best-blueberry-muffin-bake-off/) blueberry muffin bake off as my insperation, i loved the look of [ Hummingbird High's](https://www.hummingbirdhigh.com/2019/08/levain-bakery-blueberry-muffins.html)muffins. I decided to use her recipe as my starting point, veganized it and then used the reverse creaming technique for a tighter crumb and softer structure.  I also took some tips from [Yammie's Noshery's](https://www.yammiesnoshery.com/2019/08/the-best-lemon-poppyseed-muffins.html) blog ( who came first in the lemon poppyseed muffin bake off!) and used 4 lemons, yes 4 for their zest!
+Using [Pancake Princess’s](https://www.thepancakeprincess.com/2020/05/19/best-blueberry-muffin-bake-off/) blueberry muffin bake-off as my inspiration, I loved the look of  [Hummingbird High’s](https://www.hummingbirdhigh.com/2019/08/levain-bakery-blueberry-muffins.html)muffins. So I decided to use her recipe as my starting point, veganized it and then used the reverse creaming technique for a tighter crumb and softer structure. I also took some tips from [Yammie’s Noshery’s](https://www.yammiesnoshery.com/2019/08/the-best-lemon-poppyseed-muffins.html) blog ( who came first in the lemon poppyseed muffin bake-off!) and used four lemons, yes 4 for their zest!
  
 ## Ingredients
 	- 255g all purpose flour
