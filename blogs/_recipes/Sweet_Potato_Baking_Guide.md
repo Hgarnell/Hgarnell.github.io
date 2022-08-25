@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sweet Potato Baking Guide
-date: 19/03/2022
+date: 25/08/2022
 tags: Japanese kumara  potatoes
 ---
 # Sweet Potato Baking Guide
@@ -28,7 +28,7 @@ And I was right! The secret to the perfectly baked sweet potato is time and low 
 2. Wash your sweet potatoes.
 3. Put the sweet potatoes on a lined tray and place in the oven.
 4. Bake for 80 minutes or longer, depending how hot your oven was when you put the sweet potatoes in.
-5. 
+ 
 ## Notes
 - Works for pumpkins aswell, I particularly enjoy doing it with kabocha squash or butternut when I'm feeling up for something different, which usually never happens
 - The 8 different types of kumara grown in New Zealand but the main 4 are Orange ( beauregard), Red (Owairaka), Gold (toka toka), Purple (purple dawn)

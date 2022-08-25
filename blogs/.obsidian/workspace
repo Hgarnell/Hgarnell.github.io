@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_recipes/Sweet_Potato_Baking_Guide.md",
+            "file": "_recipes/Lemon_poppy_seed_muffins.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_recipes/Sweet_Potato_Baking_Guide.md",
+                "file": "_recipes/Lemon_poppy_seed_muffins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_recipes/Sweet_Potato_Baking_Guide.md",
+                "file": "_recipes/Lemon_poppy_seed_muffins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_recipes/Sweet_Potato_Baking_Guide.md"
+                "file": "_recipes/Lemon_poppy_seed_muffins.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "2e8264c337e531c5",
   "lastOpenFiles": [
-    "_drafts/tmux.md",
-    "_recipes/cinnamon_rolls.md",
-    "_other/2022-07-23-cvB.md",
-    "_recipes/Sweet_Potato_Baking_Guide.md",
-    "_drafts/draft_for_recipes.md",
-    "_recipes/Cashew_Butter_cookies.md",
     "_recipes/Peanut_Butter_Bar.md",
-    "_recipes/kabocha_recipe.md",
+    "_recipes/Sweet_Potato_Baking_Guide.md",
+    "_recipes/cinnamon_rolls.md",
+    "_recipes/Lemon_poppy_seed_muffins.md",
+    "_drafts/draft_for_recipes.md",
+    "_drafts/Milk_Bread.md",
+    "_drafts/draft_for_bernies_tech.md",
     "_recipes/jagajaga.md",
-    "_bernies_tech_stuff/Sequel-HTB.md"
+    "_drafts/tmux.md",
+    "_other/2022-07-23-cvB.md"
   ]
 }
