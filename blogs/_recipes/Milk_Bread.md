@@ -4,6 +4,7 @@ title: Milk Bread
 date: 27/09/2022
 tags: Japanese bread
 ---
+
 # Milk Bread
 *Makes 2 large loaves?*
 This is my vegan milk bread recipe that I use as a base dough for most of my breads. It has a 75% hydration and makes a lot of bread, I generally like to do an overnight rest before baking however, it is not necessary. Another Variation I like to do is to replace 200g of the milk with canned pineapple juice to make "hawaiian rolls"
