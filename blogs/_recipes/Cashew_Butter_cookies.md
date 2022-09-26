@@ -7,7 +7,7 @@ tags: cookies vegan oil-free cashew chocolate gluten-free
 # Cashew Butter Cookies 
 *Makes 12 cookies* 
 
-My vegan take on the famous levain cookies. I used the [Pancake Princess's]() levain cookie bake off as a starting point for this recipe. Using her tips, and through looking at the nutritional information and macro ratio from the [winning recipe (bravetart)]() I created a wfpb compliant, gluten free (if using gluten-free certified oat flour)  cookie! 
+My vegan take on the famous levain cookies. I used the [Pancake Princess's][Best Copycat Levain Cookie Recipe - The Pancake Princess](https://www.thepancakeprincess.com/2020/09/16/best-copycat-levain-cookie-recipe/) levain cookie bake off as a starting point for this recipe. Using her tips, and through looking at the nutritional information and macro ratio from the [winning recipe (bravetart)](https://www.seriouseats.com/super-thick-chocolate-chip-cookie-recipe)) I created a wfpb compliant, gluten free (if using gluten-free certified oat flour)  cookie! 
 
 I chose to use cashew butter in this recipe because of its natural sweetness and somewhat buttery taste. Choosing a different nut or seed butter ( use sun-butter or tahini to make it nut free) may result in a thinner, greasier cookie, so you may want to chill the cookie a bit longer.
 
