@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_bernies_tech_stuff/meow-htb.md",
+            "file": "_bernies_tech_stuff/FUFF-thm.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_bernies_tech_stuff/meow-htb.md",
+                "file": "_bernies_tech_stuff/FUFF-thm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_bernies_tech_stuff/meow-htb.md",
+                "file": "_bernies_tech_stuff/FUFF-thm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_bernies_tech_stuff/meow-htb.md"
+                "file": "_bernies_tech_stuff/FUFF-thm.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b32296bd11264c68",
   "lastOpenFiles": [
+    "_recipes/Milk_Bread.md",
+    "_bernies_tech_stuff/meow-htb.md",
     "_bernies_tech_stuff/FUFF-thm.md",
     "_bernies_tech_stuff/fawn-htb.md",
     "_bernies_tech_stuff/Redeemer-HTB.md",
     "_recipes/Lemon_poppy_seed_muffins.md",
     "_recipes/Peanut_Butter_Bar.md",
-    "_recipes/Milk_Bread.md",
     "_bernies_tech_stuff/Overthewire-bandit-4to10.md",
     "_recipes/Sweet_Potato_Baking_Guide.md",
-    "_bernies_tech_stuff/keyboards.md",
-    "_bernies_tech_stuff/meow-htb.md"
+    "_bernies_tech_stuff/keyboards.md"
   ]
 }

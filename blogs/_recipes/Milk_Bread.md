@@ -13,6 +13,7 @@ This is my vegan milk bread recipe that I use as a base dough for most of my bre
 #### Tangzhong
 	- 40g Flour
 	- 200g milk
+
 #### Bread
 	 - Cooled Tangzhong
 	 - 650g bread flour
@@ -20,6 +21,7 @@ This is my vegan milk bread recipe that I use as a base dough for most of my bre
 	 - 7g yeast (2 tsp)
 	 - 320g milk
 	 - 1 tsp salt
+
 #### Glaze
 	- 10g butter or fat
 	- 2 tbsp milk
