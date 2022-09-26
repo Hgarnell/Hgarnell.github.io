@@ -1,7 +1,8 @@
 ---
 layout: post
 title: TryHackMe intro to FFuf
-date: 19/01/2022
+date:19/01/2022
+last_updated: 16/08/2022
 tags: TryHackMe FFUF
 ---
 **Intro to Ffuf and how to use it, Try hack me tutorial**

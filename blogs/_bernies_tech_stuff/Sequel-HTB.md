@@ -2,6 +2,7 @@
 layout: post
 title: Sequel-HTB
 date: 16/08/2022
+last_updated: 16/08/2022
 tags: 
 ---
 # Sequel - HTB

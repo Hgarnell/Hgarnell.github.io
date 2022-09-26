@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Redeemer-HTB
-date: 14/08/2022
+date:14/08/2022
+last_updated: 14/08/2022
 tags: 
 ---
 # Redeemer-HTB
