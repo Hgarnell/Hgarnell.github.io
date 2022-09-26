@@ -7,8 +7,12 @@
         "id": "b32296bd11264c68",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_recipes/Milk_Bread.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_recipes/Milk_Bread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_recipes/Milk_Bread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_recipes/Milk_Bread.md"
+              }
             }
           }
         ]
@@ -120,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2e8264c337e531c5",
+  "active": "b32296bd11264c68",
   "lastOpenFiles": [
+    "_bernies_tech_stuff/Overthewire-bandit-4to10.md",
+    "_bernies_tech_stuff/Overthewire-bandit-0to4.md",
     "_drafts/Crocodile-HTB.md",
     "_drafts/draft_for_bernies_tech.md",
     "_drafts/draft_for_recipes.md",
@@ -129,8 +139,6 @@
     "_drafts/tmux.md",
     "_drafts/RedPanda-HTB.md",
     "_other/2022-07-23-cvB.md",
-    "_recipes/Milk_Bread.md",
-    "_bernies_tech_stuff/Overthewire-bandit-4to10.md",
-    "_bernies_tech_stuff/Overthewire-bandit-0to4.md"
+    "_recipes/Milk_Bread.md"
   ]
 }
