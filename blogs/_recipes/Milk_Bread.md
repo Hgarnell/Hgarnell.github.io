@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Milk Bread
-date: 27/09/2022
+date: 26/09/2022
 tags: Japanese bread
 ---
 
