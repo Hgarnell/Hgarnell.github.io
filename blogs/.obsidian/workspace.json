@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b32296bd11264c68",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_drafts/Overthewire-bandit-10to17.md",
-            "mode": "source",
-            "source": false
+        "id": "0875b92d3def8c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b32296bd11264c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Overthewire-bandit-10to17.md",
+                "file": "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Overthewire-bandit-10to17.md",
+                "file": "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Overthewire-bandit-10to17.md"
+                "file": "_bernies_tech_stuff/Overthewire-bandit-10to17.md"
               }
             }
           }
@@ -128,8 +136,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b32296bd11264c68",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "2e8264c337e531c5",
   "lastOpenFiles": [
+    "_bernies_tech_stuff/Sequel-HTB.md",
+    "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
     "_bernies_tech_stuff/Overthewire-bandit-4to10.md",
     "_bernies_tech_stuff/Preignition-HTB.md",
     "_bernies_tech_stuff/FUFF-thm.md",
@@ -137,8 +150,6 @@
     "_bernies_tech_stuff/meow-htb.md",
     "_bernies_tech_stuff/fawn-htb.md",
     "_bernies_tech_stuff/Redeemer-HTB.md",
-    "_recipes/Lemon_poppy_seed_muffins.md",
-    "_recipes/Peanut_Butter_Bar.md",
-    "_recipes/Sweet_Potato_Baking_Guide.md"
+    "_recipes/Lemon_poppy_seed_muffins.md"
   ]
 }
