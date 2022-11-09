@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3ab99a29b497bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/Overthewire-bandit-17-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
+                "file": "_drafts/Overthewire-bandit-17-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
+                "file": "_drafts/Overthewire-bandit-17-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_bernies_tech_stuff/Overthewire-bandit-10to17.md"
+                "file": "_drafts/Overthewire-bandit-17-24.md"
               }
             }
           }
@@ -139,10 +152,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2e8264c337e531c5",
+  "active": "d3ab99a29b497bfa",
   "lastOpenFiles": [
-    "_bernies_tech_stuff/Sequel-HTB.md",
     "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
+    "_bernies_tech_stuff/Sequel-HTB.md",
     "_bernies_tech_stuff/Overthewire-bandit-4to10.md",
     "_bernies_tech_stuff/Preignition-HTB.md",
     "_bernies_tech_stuff/FUFF-thm.md",
