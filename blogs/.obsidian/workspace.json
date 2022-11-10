@@ -54,19 +54,23 @@
             }
           },
           {
-            "id": "36ded699a15522d6",
+            "id": "9024c53f8c008f2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_other/2022-07-23-cvB.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5307340cccdf22f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_other/2022-07-23-cvB.md",
+                "file": "_other/2022-110-11-pgr9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_other/2022-07-23-cvB.md",
+                "file": "_other/2022-110-11-pgr9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_other/2022-07-23-cvB.md"
+                "file": "_other/2022-110-11-pgr9.md"
               }
             }
           }
@@ -183,8 +187,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36ded699a15522d6",
+  "active": "85605a216bf1d0ba",
   "lastOpenFiles": [
+    "15.md",
     "_other/2022-110-11-pgr9.md",
     "_other/2022-07-23-cvB.md",
     "assets/saulphdimage/fig1.md",
@@ -193,7 +198,6 @@
     "_drafts/Overthewire-bandit-17-24.md",
     "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
     "_bernies_tech_stuff/Sequel-HTB.md",
-    "_bernies_tech_stuff/Overthewire-bandit-4to10.md",
-    "_bernies_tech_stuff/Preignition-HTB.md"
+    "_bernies_tech_stuff/Overthewire-bandit-4to10.md"
   ]
 }
