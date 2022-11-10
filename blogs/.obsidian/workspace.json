@@ -25,14 +25,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/Overthewire-bandit-17-24.md",
+                "file": "_other/2022-07-23-cvB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f75f921581a96938",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "85605a216bf1d0ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_other/2022-110-11-pgr9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36ded699a15522d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_other/2022-110-11-pgr9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_drafts/Overthewire-bandit-17-24.md",
+                "file": "_other/2022-110-11-pgr9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_drafts/Overthewire-bandit-17-24.md",
+                "file": "_other/2022-110-11-pgr9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_drafts/Overthewire-bandit-17-24.md"
+                "file": "_other/2022-110-11-pgr9.md"
               }
             }
           }
@@ -149,20 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "d3ab99a29b497bfa",
+  "active": "36ded699a15522d6",
   "lastOpenFiles": [
+    "assets/saulphdimage/fig1.md",
+    "_other/2022-110-11-pgr9.md",
+    "_recipes/Cashew_Butter_cookies.md",
+    "assets/saulsphdimage/fig1.md",
+    "_other/2022-07-23-cvB.md",
+    "_drafts/Overthewire-bandit-17-24.md",
     "_bernies_tech_stuff/Overthewire-bandit-10to17.md",
     "_bernies_tech_stuff/Sequel-HTB.md",
     "_bernies_tech_stuff/Overthewire-bandit-4to10.md",
-    "_bernies_tech_stuff/Preignition-HTB.md",
-    "_bernies_tech_stuff/FUFF-thm.md",
-    "_recipes/Milk_Bread.md",
-    "_bernies_tech_stuff/meow-htb.md",
-    "_bernies_tech_stuff/fawn-htb.md",
-    "_bernies_tech_stuff/Redeemer-HTB.md",
-    "_recipes/Lemon_poppy_seed_muffins.md"
+    "_bernies_tech_stuff/Preignition-HTB.md"
   ]
 }
