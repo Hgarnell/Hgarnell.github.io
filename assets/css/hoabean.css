@@ -1,0 +1,56 @@
+.main
+{
+    display: flex;    
+}
+
+.inner
+{  
+    width: 50%;
+    align-items: center;
+    display: grid;
+
+    justify-items: center;
+
+}
+
+body{
+    background:#FFF4E4;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    max-width: 45%;
+    font-size: 24px;
+    color:#3b220f;
+}
+
+a{
+    font-style: none;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color:#3b220f;
+
+}
+
+a:hover{
+    cursor:pointer;
+    color:#954d0e;
+
+}
+
+button{
+    border-radius:20px;
+    padding:1rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    background-color:#3b220f;
+    color:white;
+    margin-bottom: 5rem;
+    border:none;
+
+}
+button:hover{
+    cursor:pointer;
+    background-color:#954d0e;
+color:white;
+}

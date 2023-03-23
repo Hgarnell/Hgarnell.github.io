@@ -1,0 +1,4 @@
+---
+layout: hoabean
+permalink: hoabean
+---
