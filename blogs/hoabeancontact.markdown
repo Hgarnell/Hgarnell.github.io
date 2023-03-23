@@ -1,4 +1,4 @@
 ---
 layout: hoabean
-permalink: hoabean
+permalink: /hoabean
 ---
