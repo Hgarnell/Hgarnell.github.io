@@ -17,7 +17,7 @@ I am currently a university student majoring in Networks and Cybersecurity. Outs
 This space to be a place to blog and showcase myself and my hobbies.
 
 # Important stuff?
--[My CV](/blogs/other/2023-03-26-cvB/)
+-[My CV](/blogs/other/2023-03-25-cvB/)
 -[Technology Blog](/blogs/bernies_tech_stuff)
 -[Recipe Blog](blogs/recipes)
 -[Hoabean](/hoabean)
