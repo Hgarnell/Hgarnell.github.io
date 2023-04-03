@@ -15,15 +15,12 @@
     img{
         max-width: 75%;
     }
-    button {
-        height: 20rem;
-        font-size: 50px;
-        margin: 8rem;
-    
-    }
+
     p {
-        margin: 8rem;
+        font-size: 24px;
+        max-width: 45%;
     }
+    
     
 }
 
@@ -40,17 +37,9 @@
     }
     img{
         max-width: 50%;
-    }
-    p {
-        font-size: 24px;
-        max-width: 45%;
-    }
-    button {
-        padding: 1rem;
-        font-size: 24px;
-        margin-bottom: 5rem;
+    }  
     
-    }
+    
     
 }
 
@@ -88,6 +77,9 @@ button {
     background-color: #3b220f;
     color: white;
     border: none;
+    height: 20rem;
+    font-size: 50px;
+    margin: 8rem;
 
 }
 button:hover {
