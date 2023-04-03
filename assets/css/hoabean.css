@@ -28,6 +28,9 @@
         border: none;
     
     }
+    p {
+        margin: 8rem;
+    }
     
 }
 
