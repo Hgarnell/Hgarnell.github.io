@@ -7,7 +7,7 @@ tags: Peanut Bars Dessert
 # My Mom's Peanut Butter Bar
 *makes 9 bars*
 
-This is the recipe for my mom's Peanut Butter Bar, which she used to sell at the ASB datacenter. This Peanut butter bars were extremely popular, and  ginourmous. Originally based of a recipe by Chocolate covered katie, my Mom adapted it to her own tastes  and its morphed into its own thing.  I eventually took over baking the peanut butter bars, converting it into an actual recipe rather than measurements measured by the eye. 
+This is the recipe for my mom's Peanut Butter Bar, which she used to sell at the ASB data center. This Peanut butter bars were extremely popular, and  ginourmous. Originally based of a recipe by Chocolate covered katie, my Mom adapted it to her own tastes  and its morphed into its own thing.  I eventually took over baking the peanut butter bars, converting it into an actual recipe rather than measurements measured by the eye. 
 
 ## Ingredients
 	- 125g applesauce
