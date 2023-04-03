@@ -16,16 +16,9 @@
         max-width: 75%;
     }
     button {
-        border-radius: 20px;
-        padding: 1rem;
         height: 20rem;
-        margin-bottom: 1cm;
-        font-family: 'Roboto', sans-serif;
         font-size: 50px;
-        background-color: #3b220f;
-        color: white;
         margin: 8rem;
-        border: none;
     
     }
     p {
@@ -49,8 +42,16 @@
         max-width: 50%;
     }
     p {
+        font-size: 24px;
         max-width: 45%;
     }
+    button {
+        padding: 1rem;
+        font-size: 24px;
+        margin-bottom: 5rem;
+    
+    }
+    
 }
 
 
@@ -63,7 +64,6 @@ body {
 }
 
 p {
-    font-size: 24px;
     color: #3b220f;
 }
 
@@ -84,16 +84,12 @@ a:hover {
 
 button {
     border-radius: 20px;
-    padding: 1rem;
     font-family: 'Roboto', sans-serif;
-    font-size: 24px;
     background-color: #3b220f;
     color: white;
-    margin-bottom: 5rem;
     border: none;
 
 }
-
 button:hover {
     cursor: pointer;
     background-color: #954d0e;
