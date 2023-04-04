@@ -40,9 +40,7 @@
     img{
         max-width: 50%;
     }  
-    p {
-        margin: 8rem;
-    }
+    
     
     
 }
@@ -79,16 +77,15 @@ a:hover {
 }
 
 button {
-    border-radius: 20px;
+    border-radius: 10%;
     font-family: 'Roboto', sans-serif;
     background-color: #3b220f;
     color: white;
     border: none;
-     height: 20rem;
-        font-size: 50px;
-        padding:5rem;
-        margin: 10rem;
-
+    height: 15rem;
+    font-size: 50px;
+    padding: 5rem;
+    margin: 5rem;
 }
 button:hover {
     cursor: pointer;
