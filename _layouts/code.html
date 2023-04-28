@@ -1,0 +1,11 @@
+---
+layout: default
+title:  "POSTS"
+codeiframe: 
+---
+
+{%- if page.detail_image -%}<img class="detail_header" src="{{ page.detail_image }}">{%- endif -%}
+
+<h1>{{ page.post-title }}</h1>
+{{ codeiframe }}
+{{ content }}
