@@ -3,7 +3,7 @@ layout: post
 title: Fawn-HTB
 date: 16/09/2022
 last_updated: 16/09/2022
-tags: #HTB blog
+tags: HTB blog
 ---
 # HTB Fawn
 

@@ -2,14 +2,14 @@
 layout: post
 title: Keyboards!
 date: 19/07/2022
-last_updated: 19/07/2022
-tags: keyboard keychron 
+last_updated: 29/04/2023
+tags: blog keyboard keychron 
 ---
 # Keyboards!
 
 ## Current Builds
 
-#### Yunzii (Budget and 1st Build)
+#### Yunzii (January 2022) 
 Keyboard: [YUNZII KC84S  Milk Honey](https://www.amazon.com/dp/B099RJ743P/ref=twister_B099RFPY6M?_encoding=UTF8&psc=1)
 Switches: [Gazzew Boba U4T ](https://swagkeys.com/products/gazzew-u4t-boba-switches)
 Total cost: $110 (USD)
@@ -20,7 +20,7 @@ Total cost: $110 (USD)
 	 - I orginally was planning to put in the anubis switches as I was really into **THOCK**, but they were sold out everywhere, and only available overseas unless i wanted to pay 50$ in shipping costs
 	 - I went with the Boba U4ts instead as they were also pretty thocky but mainly the name was cute
 
-### Keychron Q1 (Current Build)
+### Keychron Q1 (July 2022)
 Keyboard: [Keychron Q1 Barebones Carbon Black w/ Knob ](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8841)
 Switches: [TTC Blue-ish White Switch - Tactile - Plate Mount](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7921)
 Keycaps:[Shurikey ABS Double Shot Keycap Set )](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8631)
@@ -40,8 +40,18 @@ The co-worker whos desk I borrowed, happend to leave their  Leopold number pad w
 
 While visting Arizona this year (2022), one of the things I was most looking foward to was visiting the MechanicalKeyboards.com warehouse! It was everything I could have dreamed for + more. And there, with the help of the store staff, I put together my second keyboard. While not my endgame, (bongo cat keyboard, I am looking at you) I love it to bits aswell. 
 
+### Switch Galore and a new Keycap set 29/04/2023
+ After my mistake of buying my keycaps at the mechanical keyboards warehouse, I hesitated from buying a new set as I wanted to make use of the $69 dollar keycaps. However, despite the pretty colorscheme, I hated the cherry profile and still craved for XDA
 
+ For half the price, and in PBT I found (this keycap set)[https://www.amazon.com/AHHC-Japanese-Keycaps-GH60RK61GK6466ALT6187104-Mechanical/dp/B0987N2SY8/ref=sr_1_2?crid=85UYS2XQTWWB&keywords=keycaps%2Bxdr%2Bjapanese&qid=1682713209&sprefix=keycaps%2Bxdr%2Bjapane%2Caps%2C258&sr=8-2&th=1] on amazon. I was a bit confused what a XVX profile meant, but turns out its a mix between the curve you get from cherry's and the shape of an XDA. I love the feel and sound of them and my only regret is still buying those shurikey keycaps.
 
-
+ As for the switches in my keyboard I went through an extensive testing process of the following switches. Since I am no longer based in Arizona, I asked Saul if he could pick up a few "creamy" switches for me to test out at the mechanical keyboards warehouse in chandler. And go ham he did, and I am very greatful (Thank you!!!!) For around 3 months, I had a franken keyboard where I had the durock creamy yellows and pinks, piano poms, ttc bluish whites, ttc golden browns and the ttc heart switches in my keyboard all at once. Eventually I settled on the Piano POMS as my favorite, although look wise, definetly would have been the TTC heart switches.  I still want to test out a keyboard with topre switches, but atlas, that will have to wait until I next make it out to Chandler.
+ - (Gateron Ink Black V2 Switches Linear)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7208]
+ - (Durock Piano POM Linear Switches Lubed 63.6g)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7964]
+- (Durock Creamy Yellow Switches PCB Mount 55g)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7056]
+- (Durock Creamy Pink Switches PCB Mount 65g)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7057]
+- (MK Purple Slush 50g Linear Switch)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9029]
+- (TTC Heart Switches Linear Lubed )[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8735]
+- (TTC Golden Brown V3 Switches Tactile Lubed)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8776]
  
 
