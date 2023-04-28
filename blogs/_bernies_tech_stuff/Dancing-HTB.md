@@ -3,7 +3,7 @@ layout: post
 title: Dancing-HTB
 date: 14/08/2022
 last_updated: 14/08/2022
-tags: 
+tags: blog
 ---
 # Dancing-HTB
 

@@ -7,7 +7,14 @@ title: Bernies Tech Stuff Blog
 
 A place to share my progress in learing cybersecurity and other techy ventures I do :)
 
-{% assign posts = site.bernies_tech_stuff | sort: 'date' | reverse %}
-{% for post in posts %}
+{% assign blog_posts = site.posts | where: "tags", "blog" | sort: 'date' | reverse %}
+{% assign project_posts = site.posts | where: "tags", "project" | sort: 'date' | reverse %}
+<h2>Project Posts</h2>
+{% for post in project_posts %}
 <a href = "{{post.url | prepend: site.baseurl}}" > - {{post.date | date: "%Y-%m-%d"}}  {{ post.title }}</a>
+<h2>Blog Posts</h2>
+{% for post in blog_posts %}
+<a href = "{{post.url | prepend: site.baseurl}}" > - {{post.date | date: "%Y-%m-%d"}}  {{ post.title }}</a>
+{% endfor %}
+
 {% endfor %}
