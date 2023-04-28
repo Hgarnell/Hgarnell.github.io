@@ -2,7 +2,7 @@
 layout: post
 title: ImoType Rap typing game 
 date: 28/04/2023
-tags: 
+tags: project
 ---
 
 # Imotype
