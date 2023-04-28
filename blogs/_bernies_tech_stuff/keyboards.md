@@ -43,15 +43,15 @@ While visting Arizona this year (2022), one of the things I was most looking fow
 ### Switch Galore and a new Keycap set 29/04/2023
  After my mistake of buying my keycaps at the mechanical keyboards warehouse, I hesitated from buying a new set as I wanted to make use of the $69 dollar keycaps. However, despite the pretty colorscheme, I hated the cherry profile and still craved for XDA
 
- For half the price, and in PBT I found (this keycap set)[https://www.amazon.com/AHHC-Japanese-Keycaps-GH60RK61GK6466ALT6187104-Mechanical/dp/B0987N2SY8/ref=sr_1_2?crid=85UYS2XQTWWB&keywords=keycaps%2Bxdr%2Bjapanese&qid=1682713209&sprefix=keycaps%2Bxdr%2Bjapane%2Caps%2C258&sr=8-2&th=1] on amazon. I was a bit confused what a XVX profile meant, but turns out its a mix between the curve you get from cherry's and the shape of an XDA. I love the feel and sound of them and my only regret is still buying those shurikey keycaps.
+ For half the price, and in PBT I found [this keycap set](https://www.amazon.com/AHHC-Japanese-Keycaps-GH60RK61GK6466ALT6187104-Mechanical/dp/B0987N2SY8/ref=sr_1_2?crid=85UYS2XQTWWB&keywords=keycaps%2Bxdr%2Bjapanese&qid=1682713209&sprefix=keycaps%2Bxdr%2Bjapane%2Caps%2C258&sr=8-2&th=1) on amazon. I was a bit confused what a XVX profile meant, but turns out its a mix between the curve you get from cherry's and the shape of an XDA. I love the feel and sound of them and my only regret is still buying those shurikey keycaps.
 
  As for the switches in my keyboard I went through an extensive testing process of the following switches. Since I am no longer based in Arizona, I asked Saul if he could pick up a few "creamy" switches for me to test out at the mechanical keyboards warehouse in chandler. And go ham he did, and I am very greatful (Thank you!!!!) For around 3 months, I had a franken keyboard where I had the durock creamy yellows and pinks, piano poms, ttc bluish whites, ttc golden browns and the ttc heart switches in my keyboard all at once. Eventually I settled on the Piano POMS as my favorite, although look wise, definetly would have been the TTC heart switches.  I still want to test out a keyboard with topre switches, but atlas, that will have to wait until I next make it out to Chandler.
- - (Gateron Ink Black V2 Switches Linear)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7208]
- - (Durock Piano POM Linear Switches Lubed 63.6g)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7964]
-- (Durock Creamy Yellow Switches PCB Mount 55g)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7056]
-- (Durock Creamy Pink Switches PCB Mount 65g)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7057]
-- (MK Purple Slush 50g Linear Switch)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9029]
-- (TTC Heart Switches Linear Lubed )[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8735]
-- (TTC Golden Brown V3 Switches Tactile Lubed)[https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8776]
+ - [Gateron Ink Black V2 Switches Linear](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7208)
+ - [Durock Piano POM Linear Switches Lubed 63.6g](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7964)
+- [Durock Creamy Yellow Switches PCB Mount 55g](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7056)
+- [Durock Creamy Pink Switches PCB Mount 65g](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=7057)
+- [MK Purple Slush 50g Linear Switch](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=9029)
+- [TTC Heart Switches Linear Lubed ](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8735)
+- [TTC Golden Brown V3 Switches Tactile Lubed](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=8776)
  
 
