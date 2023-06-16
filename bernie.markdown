@@ -12,7 +12,7 @@ title: Bernie (Hannah) Garnell
 ---
 
 Hi! I'm Bernie, and this website was my idea :) To be frank, I got sick of the old wordpress site, and also got a bit greedy, wanting something with my name on it. 
-I am currently a university student majoring in Networks and Cybersecurity. Outside of my university work I spend my time learning more about security, baking/cooking or at the gym. You can also find me going on long walks with my dog Phineas.
+I am currently a university student majoring in Networks and Cybersecurity. Outside of my university work I spend my time learning more about security, baking/cooking or at the gym. I am currently working on a privacy startup with my co-founder called [FaradayHq](https://faradayhq.com/) that aims to protect peoples privacy online. 
 
 This space to be a place to blog and showcase myself and my hobbies.
 
@@ -20,7 +20,7 @@ This space to be a place to blog and showcase myself and my hobbies.
 -[My CV](/blogs/other/2023-03-25-cvB/)
 -[Technology Blog](/blogs/bernies_tech_stuff)
 -[Recipe Blog](blogs/recipes)
--[Hoabean](/hoabean)
+
 
 # My Socials and other links
 -[Linkedin](https://nz.linkedin.com/in/bernie-garnell-1b4847207)

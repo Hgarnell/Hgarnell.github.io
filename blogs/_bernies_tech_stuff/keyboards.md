@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Keyboards!
-date: 19/07/2022
-last_updated: 29/04/2023
+date: 29/04/2023
 tags: blog keyboard keychron 
 ---
 # Keyboards!

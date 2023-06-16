@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Jagajaga
+title: Almond biscotti
 date: 19/03/2022
-tags: Japanese jagjajaga potatoes
+tags: Almond Biscotti
 ---
 # My biscotti/sugar cookie recipe
 *serves idk*

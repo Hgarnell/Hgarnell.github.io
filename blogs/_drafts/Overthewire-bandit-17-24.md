@@ -2,7 +2,7 @@
 layout: post
 title:Over the wire: Bandit 17 to 24
 date: 26/09/2022
-tags: 
+tags: blog
 ---
 # Overthewire-BANDIT
 *Contains spoilers! aka the password*

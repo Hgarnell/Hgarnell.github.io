@@ -2,7 +2,7 @@
 layout: post
 title:Red Panda 
 date: 11/09/2022
-tags: 
+tags: blog
 ---
 # Red Panda-HTB
 

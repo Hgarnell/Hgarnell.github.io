@@ -2,7 +2,7 @@
 layout: post
 title: TMUXnotes
 date: 19/12/2021
-tags: TMUX
+tags: TMUX blog
 ---
 **tmux and shortcuts for me to remember**
 
