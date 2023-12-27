@@ -5,7 +5,7 @@
 layout: page
 permalink: /Bernie
 permalink_name: /Bernie
-title: Bernie (Hannah) Garnell
+title: Bernie (Hannah) 
 
 ##detail_image: assets/theme_logo.svg
 
